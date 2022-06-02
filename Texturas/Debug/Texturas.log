@@ -1,0 +1,5 @@
+﻿  Texturas.cpp
+C:\Users\BERE\Documents\Texturas\Texturas.cpp(1074,1): warning C4102: 'sa3': etiqueta sin referencia
+C:\Users\BERE\Documents\Texturas\Texturas.cpp(1089,5): warning C4102: 'fuera': etiqueta sin referencia
+C:\Users\BERE\Documents\Texturas\Texturas.cpp(1109,1): warning C4102: 'sig': etiqueta sin referencia
+  Texturas.vcxproj -> C:\Users\BERE\Documents\Texturas\Debug\Texturas.exe
